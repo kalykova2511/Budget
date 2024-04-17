@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CourseWork.CategoriesWork" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgggAAAAACCAAFAABACBAAACEIQIABAQ4EAAAAAAAAA=</HashCode>
+      <FileName>CategoriesWork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.CategoryAddForm" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAACgAAAKAAAAgAgAKAIAACAAgIAACQUAAAAAAAAAA=</HashCode>
+      <FileName>CategoryAddForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.CategoryUpdateForm" Collapsed="true">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAAAAAgACAAAACAAgIAAAAUAAAAAAAAgA=</HashCode>
+      <FileName>CategoryUpdateForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.EnterForm" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACABAAAAACAAABAABAyACAASAACoAAAAEEAAIAIAEAA=</HashCode>
+      <FileName>EnterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.FutureExpenseAddForm" Collapsed="true">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAABAAAACAAABASAACAAAACAAQYAAAQEGAAAAAAAAA=</HashCode>
+      <FileName>FutureExpenseAddForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.FutureIncomeAddForm" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAABAAAACAAABASAACAAAACAAQYAAAQEGAAAAAAAAA=</HashCode>
+      <FileName>FutureIncomeAddForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.PlanUpdate" Collapsed="true">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAABAAAACAAABASAACAAAACAAQJAAAQEEAAAAAAAgA=</HashCode>
+      <FileName>PlanUpdate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.RealExpenseAddForm" Collapsed="true">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAABAAAACAAABASAACAAAACAAQYAAAQEGAAAAAAAAA=</HashCode>
+      <FileName>RealExpenseAddForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.RealIncomeAddForm" Collapsed="true">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQAABAAAACAAABASAACAAAACAAQYAAAQEGAAAAAAAAA=</HashCode>
+      <FileName>RealIncomeAddForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.RealUpdate" Collapsed="true">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAABAAAACAAABASAACAAAACAAQJAAAQEEAAAAAAAgA=</HashCode>
+      <FileName>RealUpdate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.MyBudget" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACABAAAAACAAABIABAiACAASAAAYAAAIEmAAAAIAAAA=</HashCode>
+      <FileName>RegisterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseWork.DB">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAQAAAAAAAAABAAAAA=</HashCode>
+      <FileName>DB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DGVPrinterHelper.Documents" Collapsed="true">
+    <Position X="8" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="DGVPrinterHelper.Documents.PrintLocation" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Documents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="DGVPrinterHelper.Documents.Location" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Documents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="DGVPrinterHelper.Documents.Alignment" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Documents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="DGVPrinterHelper.Documents.RowHeightSetting" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Documents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="DGVPrinterHelper.Documents.rowdata" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Documents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="DGVPrinterHelper.Documents.PageDef" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Documents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="DGVPrinterHelper.Documents.ColumnWidthSetting" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Documents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="DGVPrinterHelper.Documents.SizeType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Documents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="DGVPrinterHelper.Documents.ImbeddedImage" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Documents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Enum Name="DGVPrinterHelper.Documents.paging" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Documents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Class Name="DGVPrinterHelper.Documents.PrintDialogSettingsClass" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Documents.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>3l8qd9+X8t/kaFBjS+oO7skhbCrxPjww/j3/2N2C1m8=</HashCode>
+      <FileName>Documents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
