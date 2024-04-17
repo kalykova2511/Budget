@@ -1,0 +1,7 @@
+2024-04-09 15:04:44,312 [INFO] [start_polling] Polling stopped
+2024-04-09 15:04:44,565 [INFO] [_polling] Polling stopped for bot @MyTest_Kwork_bot id=6444748184 - 'KworkTest'
+2024-04-09 15:07:32,021 [INFO] [start_polling] Start polling
+2024-04-09 15:07:32,103 [INFO] [_polling] Run polling for bot @MyTest_Kwork_bot id=6444748184 - 'KworkTest'
+2024-04-09 15:07:53,802 [INFO] [feed_update] Update id=799641082 is handled. Duration 610 ms by bot id=6444748184
+2024-04-09 15:07:58,380 [INFO] [start_polling] Polling stopped
+2024-04-09 15:07:58,648 [INFO] [_polling] Polling stopped for bot @MyTest_Kwork_bot id=6444748184 - 'KworkTest'

@@ -1,0 +1,28 @@
+2024-04-09 15:07:30,675 [INFO] [_execute_context] SELECT DATABASE()
+2024-04-09 15:07:30,675 [INFO] [_execute_context] [raw sql] ()
+2024-04-09 15:07:30,791 [INFO] [_execute_context] SELECT @@sql_mode
+2024-04-09 15:07:30,791 [INFO] [_execute_context] [raw sql] ()
+2024-04-09 15:07:30,850 [INFO] [_execute_context] SELECT @@lower_case_table_names
+2024-04-09 15:07:30,850 [INFO] [_execute_context] [raw sql] ()
+2024-04-09 15:07:30,965 [INFO] [_connection_begin_impl] BEGIN (implicit)
+2024-04-09 15:07:30,965 [INFO] [_execute_context] DESCRIBE `christlh_fin_sys`.`users`
+2024-04-09 15:07:30,966 [INFO] [_execute_context] [raw sql] ()
+2024-04-09 15:07:31,024 [INFO] [_execute_context] DESCRIBE `christlh_fin_sys`.`passwords`
+2024-04-09 15:07:31,024 [INFO] [_execute_context] [raw sql] ()
+2024-04-09 15:07:31,083 [INFO] [_execute_context] DESCRIBE `christlh_fin_sys`.`income_categories`
+2024-04-09 15:07:31,083 [INFO] [_execute_context] [raw sql] ()
+2024-04-09 15:07:31,141 [INFO] [_execute_context] DESCRIBE `christlh_fin_sys`.`expenses_categories`
+2024-04-09 15:07:31,141 [INFO] [_execute_context] [raw sql] ()
+2024-04-09 15:07:31,200 [INFO] [_execute_context] DESCRIBE `christlh_fin_sys`.`real_incomes`
+2024-04-09 15:07:31,201 [INFO] [_execute_context] [raw sql] ()
+2024-04-09 15:07:31,259 [INFO] [_execute_context] DESCRIBE `christlh_fin_sys`.`real_expenses`
+2024-04-09 15:07:31,259 [INFO] [_execute_context] [raw sql] ()
+2024-04-09 15:07:31,317 [INFO] [_execute_context] DESCRIBE `christlh_fin_sys`.`tg_to_user`
+2024-04-09 15:07:31,317 [INFO] [_execute_context] [raw sql] ()
+2024-04-09 15:07:31,377 [INFO] [_connection_commit_impl] COMMIT
+2024-04-09 15:07:53,258 [INFO] [_connection_begin_impl] BEGIN (implicit)
+2024-04-09 15:07:53,262 [INFO] [_execute_context] SELECT tg_to_user.user_id 
+FROM tg_to_user 
+WHERE tg_to_user.tg_id = %s
+2024-04-09 15:07:53,262 [INFO] [_execute_context] [generated in 0.00018s] (502927612,)
+2024-04-09 15:07:53,320 [INFO] [_connection_rollback_impl] ROLLBACK
